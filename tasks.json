@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "task": "Aplikasi Sistem Informasi",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "CLI Nodejs",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "task": "Analisis Sentimen dan Pengelompokan Topik pada Media Sosial - Classification dan Clustering dalam Natural Language Processing (NLP)",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Menentukan Tema Penelitian",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "task": "Aplikasi Ecommerce",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "task": "Video Penjelasan Mesa",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "task": "Penyelesaian Masalah di Dunia Nyata Menggunakan Simulasi ABM",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "task": "Aplikasi Sederhana untuk Mobile",
+    "completed": false
+  }
+]

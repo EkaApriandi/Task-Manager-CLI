@@ -1,0 +1,15 @@
+{
+  "name": "cli-task-manager",
+  "version": "1.0.0",
+  "description": "Aplikasi CLI Task Manager sederhana untuk tugas minggu 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC"
+}

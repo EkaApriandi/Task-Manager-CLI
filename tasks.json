@@ -2,16 +2,16 @@
   {
     "id": 1,
     "task": "Aplikasi Sistem Informasi",
-    "completed": false
+    "completed": true
   },
   {
     "id": 2,
     "task": "CLI Nodejs",
-    "completed": false
+    "completed": true
   },
   {
     "id": 3,
-    "task": "Analisis Sentimen dan Pengelompokan Topik pada Media Sosial - Classification dan Clustering dalam Natural Language Processing (NLP)",
+    "task": "Analisis Sentimen dan Pengelompokan Topik pada Media Sosial - Classification dan Clustering dalam NLP",
     "completed": false
   },
   {
@@ -27,7 +27,7 @@
   {
     "id": 6,
     "task": "Video Penjelasan Mesa",
-    "completed": false
+    "completed": true
   },
   {
     "id": 7,
@@ -37,6 +37,11 @@
   {
     "id": 8,
     "task": "Aplikasi Sederhana untuk Mobile",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "task": "web sederhana",
     "completed": false
   }
 ]
